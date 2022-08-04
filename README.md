@@ -2,7 +2,7 @@
 
 One of the best projects for learning CSS and JavaScript is an analog clock. Creating an analog clock teaches you how to use absolute position and transform in many different ways. It also forces you to learn how to modify your CSS with JavaScript. Lastly, it is a beginner friendly project which makes it perfect for anyone.
 
-# 🧠 Concepts Covered:
+# 🧠 Concepts Covered  
 
 - How to use CSS variables in JavaScript
 - JavaScript date object
@@ -11,7 +11,7 @@ One of the best projects for learning CSS and JavaScript is an analog clock. Cre
 - Using data attributes as selectors in JavaScript
 - Basic CSS pseudo element usage
 
-# 🌆Screenshots:  
+# 🌆Screenshots  
 
 ![clock](https://user-images.githubusercontent.com/106147027/182946481-45a96299-85b8-49b2-b2b2-928898fa51d2.png)
 
