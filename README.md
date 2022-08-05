@@ -17,4 +17,4 @@ One of the best projects for learning CSS and JavaScript is an analog clock. Cre
 
 # 👇 Live Demo
 
-<p>To see a live preview of the project, click<a href="https://codepen.io/ivaylokarafeizov/pen/PoRRgyR"  target="_blank"> here</a>!</p>
+<p>To see a live preview of the project, click<a href="https://codepen.io/ivaylokarafeizov/full/PoRRgyR"  target="_blank"> here</a>!</p>
